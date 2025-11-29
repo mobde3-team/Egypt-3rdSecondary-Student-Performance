@@ -40,7 +40,7 @@ The project demonstrates skills in:
 
 ### Python Code
 
-- *All python cleaning code is attached in the Repository in the (Data_Cleaning) folder.*
+- *All python cleaning code is attached in the Repository in the (Notebooks) folder.*
 
 ---
 
