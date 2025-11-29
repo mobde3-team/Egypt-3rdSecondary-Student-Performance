@@ -89,14 +89,20 @@ Visualizes geographic insights through **regional comparisons**, helping reveal 
 
 ```
 /Data
-  students.csv
+  cleaned_students_data.xlsx
+  cleaned_teachers_data.xlsx
+
+/Modeling (SQL)
+  DEPI final project SQL.sql
 
 /Notebooks
-  cleaning_and_EDA.ipynb
+  Graduation_project_cleaning_(students).ipynb
+  Graduation_project_cleaning_(teachers).ipynb
 
-/PowerBI
-  ThanaweyaAmmaDashboard.pbix
+/Dashboard Before Design
+  Dashboard Before Design.pbix
 
+Final Dashboard.pbix
 README.md
 ```
 
@@ -114,7 +120,7 @@ README.md
 
 **Mobde3 Team – Data Analysts**
 
-* * **Noureldeen Hammad** – Data Cleaning & Preprocessing
+* **Noureldeen Hammad** – Data Cleaning & Preprocessing
 * **Mohamed Mostafa** – Modeling
 * **Abdelrahman Alkady** – Insights & Visualization
 * **Ahmed Hisham** – Insights & Visualization
